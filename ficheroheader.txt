@@ -1,0 +1,2 @@
+este es el fichero del header 
+en el header estamos a medio proceso de la web , nos faltara ultimar y meter el header 
