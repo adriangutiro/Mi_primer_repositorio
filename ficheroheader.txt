@@ -1,2 +1,3 @@
 este es el fichero del header 
 en el header estamos a medio proceso de la web , nos faltara ultimar y meter el header 
+eb este si nota el cambio la terminal, por que ya existe el fichero
